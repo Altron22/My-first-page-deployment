@@ -3,7 +3,7 @@
 * Phone: (856)-252-4017 
 * Email: Y2K100@aol.com
 
-Goal: My goal is to find a career that I can support a future family on.
+Goal: My goal is to find a career that I can support my family on.
 
 ## Summery of Skills
 * Curbside Sewer Tech
