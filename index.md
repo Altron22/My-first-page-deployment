@@ -37,9 +37,9 @@ tune-ups.
 2000-2004 Highland Regional High School
 
 # Employment:
-|**Years Worked**|**Title**|**Supervisor**|**Position**|
+| **Years Worked** | **Title** | **Supervisor** | **Position** |
 |:----------------:|:---------:|:--------------:|:------------:|
-|2023-Present    |Dart Container Co.|Damaris Alomar|Loader in Shipping|
-|2021-2023       |LSC Communications|Jim McCulli   |Hoist Operator    |
-|2020-2021       |Securitas         |John Landis   |Security Guard    |
-|2007-2020       |Gloucester Township M.U.A.       |Glen Englbert     |Sewer Tech/Recycling Operator and Grass Removal	    
+| 2023-Present     | Dart Container Co.| Damaris Alomar| Loader in Shipping |
+| 2021-2023        | LSC Communications| Jim McCulli   | Hoist Operator    |
+| 2020-2021        | Securitas         | John Landis   | Security Guard    |
+| 2007-2020        | Gloucester Township M.U.A.        | Glen Englbert     | Sewer Tech/Recycling Operator and Grass Removal |	    
