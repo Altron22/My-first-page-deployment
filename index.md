@@ -43,5 +43,3 @@ tune-ups.
 |2021-2023       |LSC Communications|Jim McCulli   |Hoist Operator    |
 |2020-2021       |Securitas         |John Landis   |Security Guard    |
 |2007-2020       |Gloucester Township M.U.A.       |Glen Englbert     |Sewer Tech/Recycling Operator and Grass Removal	    
-
-
