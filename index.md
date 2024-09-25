@@ -37,6 +37,7 @@ tune-ups.
 2000-2004 Highland Regional High School
 
 # Employment:
+
 | **Years Worked** | **Title** | **Supervisor** | **Position** |
 |:----------------:|:---------:|:--------------:|:------------:|
 | 2023-Present     | Dart Container Co.| Damaris Alomar| Loader in Shipping |
